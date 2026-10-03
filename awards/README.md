@@ -20,9 +20,6 @@ The following contributions were moved from the candidate register on 2026-10-03
 at the maintainer's direction, treating their public-review periods as complete.
 Review dates retain the date-only UTC precision of the original candidate records.
 Problem links provide the recorded contribution attribution and proof evidence.
-Published award levels and announcement links have not yet been recorded for
-these entries; this migration does not document identity checks or written
-recipient confirmation.
 
 | Problem ID | Contribution type | Recipients | Public-review start (UTC) | Public-review end (UTC) |
 | --- | --- | --- | --- | --- |
